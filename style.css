@@ -1,6 +1,22 @@
-p{
-    color: green;
+/* Element selector */
+body{
+    background-color: skyblue;
 }
-p{
-    
+header{
+   background-color: rgba(red, green, blue, alpha);
+}
+section{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+;
+}
+article{
+    font-size: 15px;
+}
+.title{
+    font-size: 23px;
+    font-weight: 500;
+}
+.date{
+    font-style: italic;
+    font-size: 15px;
 }
