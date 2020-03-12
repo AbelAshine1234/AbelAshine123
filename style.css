@@ -6,9 +6,16 @@ body{
 }
 header{
     background-color: #00fff2;
-    position: relative;
+    position: absolute;
+
+
+}
+*{
+    padding: 0;
+    margin: 0;
 }
 section{
+    margin-top: 10px;
     padding: 5px 30px;
     font-family: fantasy;
 }
@@ -19,6 +26,7 @@ article{
 .title{
     font-size: 23px;
     font-weight: 500;
+    background-color: olive;
 }
 .date{
     font-style: italic;
@@ -27,9 +35,11 @@ article{
 }
 /* Changing the nature */
 nav>ul>li{
+  
 display: inline-block;
 padding: 10px 20px;
 font-size: 20px;
+background-color: lightslategray;
 }
 nav>ul>li>a{
     text-decoration: none;
