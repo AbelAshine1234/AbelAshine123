@@ -6,6 +6,7 @@ body{
 }
 header{
     background-color: #00fff2;
+    position: relative;
 }
 section{
     padding: 5px 30px;
