@@ -19,8 +19,10 @@
 
     <form action="mailto:abelashineszreal@gmail.com" method="POST"en="UTF-8">
         
-        <label for="fName">First name</label>
-        <input type="text" name="fName" id="fName" required><br>
+        <label for="fName">First name</label >
+        
+        
+        <input type="text" name="fName" id="fName" pattern="[a-z]{0-9}"title="Only Capital letters are allowed" ><br>
         <label for="lName">last name</label>
         <input type="text" name="lName" id="lName" required><br>
         <label for="email">email</label>
