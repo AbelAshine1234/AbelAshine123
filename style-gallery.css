@@ -1,0 +1,27 @@
+body{
+    background-color: blue;
+    font-size: medium;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0px;
+    margin: 0px;
+}
+.main-header{
+    position: relative;
+   
+    
+}
+.table{
+    border-bottom:solid 10px red ;
+    padding-bottom: 6%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.table
+#images{
+   padding: 0%;
+   margin: 0%;
+   float: left;
+   width: 30%;
+   box-sizing: border-box;
+}
