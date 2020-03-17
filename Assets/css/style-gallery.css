@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+    font-size: medium;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0px;
+    margin: 0px;
+}
+.main-header{
+    position: relative;
+   
+    
+}
+.images{
+    float: left;
+    width: 30%;
+    margin: 1.66667;
+    border: 0px solid red;
+    padding: 1px;
+    padding-bottom: 1px;
+    box-sizing: border-box;
+}
+  

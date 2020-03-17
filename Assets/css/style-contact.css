@@ -10,6 +10,9 @@ header{
 
 
 }
+body{
+    background-color: rgba(182, 228, 31, 0.918);
+}
 *{
     padding: 0;
     margin: 0;
