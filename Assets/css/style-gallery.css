@@ -20,4 +20,6 @@ body{
     padding-bottom: 1px;
     box-sizing: border-box;
 }
-  
+#home{
+    color: rgb(255, 153, 0);
+} 

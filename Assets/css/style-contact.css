@@ -57,6 +57,18 @@ img{
     float: left;
     margin-right: 100px;
 }
+.form-contact{
+    margin: 10px;
+    padding: 10px;
+    border-bottom: 1px solid black;
+    position: relative;
+    margin-bottom: 10px;
+}
+#submit{
+    width: 250px;
+    height: 40px;
+
+}
 #clear{
     clear: left;
 }
