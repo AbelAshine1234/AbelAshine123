@@ -1,0 +1,451 @@
+body{
+    margin: 10px;
+
+    padding: 10px;
+background-color: rgb(160, 244, 255);
+}
+h2{
+    padding-left: 500px;;
+    align-content: center;
+    align-self: center;
+    font-size: 40px;
+    padding-bottom: 0px;
+}
+a {
+    display: flex;
+    font-size: 30px;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.container-Austria{
+    width: 400px;
+    height: 100px;
+    padding: 100px;
+    margin: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+   
+    border: blue 2px solid;
+}
+.flag-Austria-before{
+    height: 33.3%;
+    width: 100%;
+    background-color: red;
+}
+.flag-Austria{
+    height: 33.3%;
+    width: 100%;
+    background-color: white;
+}
+.flag-Austria-after{
+    height: 33.3%;
+    width: 100%;
+    background-color: red;
+}
+
+
+
+
+.container-Armenia{
+    width: 400px;
+    height: 100px;
+    padding: 100px;
+    margin: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    border: blue 2px solid;
+}
+.flag-Armenia-before{
+    height: 33.3%;
+    width: 100%;
+    background-color: red;
+}
+.flag-Armenia{
+    height: 33.3%;
+    width: 100%;
+    background-color: blue;
+}
+.flag-Armenia-after{
+    height: 33.3%;
+    width: 100%;
+    background-color: rgb(255, 200, 98);
+}
+
+
+
+.container-Belgium{
+    width: 300px;
+    height: 100px;
+    padding: 100px;
+    margin: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;   
+    border: blue 2px solid;
+}
+.flag-Belgium-before{
+    height:100%;
+    width: 33.3%;
+    background-color: black;
+}
+.flag-Belgium{
+    height: 100%;
+    width: 33.3%;
+    background-color: yellow;
+}
+.flag-Belgium-after{
+    height: 100%;
+    width: 33.3%;
+    background-color:red;
+}
+
+
+
+
+
+
+.container-Bennin{
+
+    width: 250px;
+    height: 100px;
+    padding: 100px;
+    margin: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;   
+    border: blue 2px solid;
+    
+}
+.container-Bennin-main{
+    padding:0%;
+    margin: 0%;
+    height: 100%;
+    width: 100%;
+   
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+    
+}
+.flag-Bennin-before{
+    height: 100%;
+    width: 33.3%;
+    background-color: yellow;
+    align-self: flex-end;
+
+}
+.flag-Bennin{
+    height: 100%;
+    width: 33.3%;
+    background-color: red;
+    align-self: flex-end;
+
+}
+
+
+
+
+
+
+
+
+
+.container-Bulgaria{
+    width: 350px;
+    height: 100px;
+    padding: 100px;
+    margin: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    border: blue 2px solid;
+}
+.flag-Bulgaria-before{
+    height: 33.3%;
+    width: 100%;
+    background-color: white;
+}
+.flag-Bulgaria{
+    height: 33.3%;
+    width: 100%;
+    background-color:green;
+}
+.flag-Bulgaria-after{
+    height: 33.3%;
+    width: 100%;
+    background-color: red;
+}
+
+
+
+.container-Chad{
+    width: 250px;
+    height: 100px;
+    padding: 100px;
+    margin: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;   
+    border: blue 2px solid;
+}
+.flag-Chad-before{
+    height: 100%;
+    width: 33.3%;
+    background-color:  blue;
+}
+.flag-Chad{
+    height: 100%;
+    width: 33.3%;
+    background-color:  yellow;
+}
+.flag-Chad-after{
+    height: 100%;
+    width: 33.3%;
+    background-color: red;
+}
+
+
+
+
+.container-Colombia{
+    width: 450px;
+    height: 200px;
+    padding: 100px;
+    margin: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    border: blue 2px solid;
+}
+.flag-Colombia-before{
+    width: 100%;
+    height: 50%;
+    background-color:   yellow;
+}
+.flag-Colombia{
+    width: 100%;
+    height: 25%;
+    background-color:  blue;
+}
+.flag-Colombia-after{
+    width: 100%;
+    height: 25%;
+    background-color: red;
+}
+
+
+
+.container-Cote{
+    width: 400px;
+    height: 300px;
+    padding: 100px;
+    margin: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;   
+    border: blue 2px solid;
+}
+.flag-Cote-before{
+    height:100%;
+    width: 33.3%;
+    background-color: orange;
+}
+.flag-Cote{
+    height: 100%;
+    width: 33.3%;
+    background-color: white;
+}
+.flag-Cote-after{
+    height: 100%;
+    width: 33.3%;
+
+    background-color:green;
+}
+
+
+
+
+.container-Estonia{
+    width: 300px;
+    height: 200px;
+    padding: 100px;
+    margin: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;   
+    border: blue 2px solid;
+}
+.flag-Estonia-before{
+    height: 33.3%;
+    width: 100%;
+    background-color: blue;
+}
+.flag-Estonia{
+    height: 33.3%;
+    width: 100%;
+    background-color: black;
+}
+.flag-Estonia-after{
+    height: 33.3%;
+    width: 100%;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+.container-France{
+    width: 400px;
+    height: 300px;
+  
+    padding: 100px;
+    margin: 300px;
+    display: flex;
+    
+    padding: 100px;
+    margin: 300px;
+    justify-content: space-between;
+   position: relative;
+    border: blue 2px solid;
+}
+.flag-France-before{
+    height:100%;
+    width: 33.3%;
+    background-color: blue;
+}
+.flag-France{
+    height: 100%;
+    width: 33.3%;
+    background-color: white;
+}
+.flag-France-after{
+    height: 100%;
+    width: 33.3%;
+
+    background-color:red;
+}
+
+
+
+
+.container-Gabon{
+    width: 300px;
+    height: 200px;
+    padding: 100px;
+    margin: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;   
+    border: blue 2px solid;
+}
+.flag-Gabon-before{
+    height: 33.3%;
+    width: 100%;
+    background-color: green;
+}
+.flag-Gabon{
+    height: 33.3%;
+    width: 100%;
+    background-color: yellow;
+}
+.flag-Gabon-after{
+    height: 33.3%;
+    width: 100%;
+    background-color: blue;
+}
+
+
+
+
+
+
+
+.container-Germany{
+    width: 300px;
+    height: 200px;
+    padding: 100px;
+    margin: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    border: blue 2px solid;
+}
+.flag-Germany-before{
+    height: 33.3%;
+    width: 100%;
+    background-color: black;
+}
+.flag-Germany{
+    height: 33.3%;
+    width: 100%;
+    background-color: red;
+}
+.flag-Germany-after{
+    height: 33.3%;
+    width: 100%;
+    background-color: yellow;
+}
+
+
+
+table{
+
+    border-spacing: 0;
+    margin:  auto;
+}
+table tr td{
+    width: 100px;
+    height: 100px; 
+    border-spacing:0 ;
+   
+}
+.type-A{
+    
+    border-right: black 3px solid;
+    border-bottom:black 3px solid ;
+
+}
+.type-B{
+    border-right: black 3px solid;
+   
+}
+.type-C{
+    
+    border-bottom:black 3px solid ;
+}
+.type-D{
+  
+    border-bottom:black 3px solid ;
+
+}
+.type-E{
+    border:3px solid black;
+}
+.type-G{
+    border-right: black solid 3px;
+}
+.type-I{
+  
+    border-left: black solid 3px;
+    border-top: solid 3px black;
+}
